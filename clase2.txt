@@ -1,0 +1,11 @@
+¿Que es una librería?
+Una librería es un conjunto reutilizable de códigos.
+¿Que es un framework?
+Un framework o también conocido como un marco de trabajo, es una estructura que define como debe organizarse y ejecutarse tu aplicación "tu escribes el código que encaja en las reglas de los puntos de entrada que el framework define".
+Vue JS
+Vue nos da un conjunto de carpetas y de sus carpetas donde nos va a decir donde va a ir cada seccion respetando cada estructura que nos da. Se centra en la capa de vistas (UI).
+Frontend
+Es basicamente lo que se nos muestra o sea la página web.
+Backend
+Es lo que no se muestra o sea la logica de la página web como por ej. php, base de datos, operaciones, etc.
+IDE = Entorno de desarrollo integrado.
