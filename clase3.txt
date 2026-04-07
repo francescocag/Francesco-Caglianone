@@ -1,0 +1,5 @@
+.NPM es el gestor de librería de NODE.
+Comandos:
+.npm create vite@latest: comando para crear proyecto en vite.
+.npm install: para descargar dependencias del proyecto.
+.npm run dev: levanta un servidor local a través de vite para correr la aplicación.
