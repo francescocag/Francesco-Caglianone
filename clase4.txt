@@ -1,0 +1,2 @@
+Sketch: es un esquema visual de como pienso que será mi páginna web
+Componente: Son los que permiten hacer codigos reutilizables y son partes de la página web. Esta compuesto por tres partes: el html (template), los estilos (style) y javascript (script).

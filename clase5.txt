@@ -1,0 +1,9 @@
+En main podemos crear una nueva rama secundaria para tener una copia de proyecto, trabajar con esa copia y luego la subimos con un git push a la rama principal, hay que evitar subirla a pull request con un git status, si sale master, poner git main y git checkout main.
+Resumen de comandos básicos de git(sistema de control de versiones distribuidos):
+git init:Crea un nuevo repositorio local.
+git clonne <url>:Copia un repositorio remoto existente.
+git add:Prepara los cambios para el commit.
+git commit -m:Guarda los cambios preparados con una descripción.
+git pull:Descarga e integra los cambios del repositorio remoto al local.
+git push:Sube los commits locales al repositorio remoto.
+git status:Muestra el estado de los archivos y cambios.
