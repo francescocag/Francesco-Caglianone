@@ -171,6 +171,42 @@ const defensores = [
     numero: 6,
 
     imagen: "/jugadores/battaglia.jpg"
+  },
+    {
+    nombre: "Lautaro Di Lollo",
+    numero: 2,
+
+    imagen: "/jugadores/lautaro.jpg"
+  },
+    {
+    nombre: "Marcelo Weigandnt",
+    numero: 23,
+
+    imagen: "/jugadores/marcelo.jpg"
+  } ,
+  {
+    nombre: "Juan Barinaga",
+    numero: 24,
+
+    imagen: "/jugadores/barinaga.jpg"
+  },
+    {
+    nombre: "Marco Pellegrino",
+    numero: 26,
+
+    imagen: "/jugadores/pellegrino.jpg"
+  },
+    {
+    nombre: "Ayrton Costa",
+    numero: 32,
+
+    imagen: "/jugadores/ayrton.jpg"
+  },
+    {
+    nombre: "Dylan Gorosito",
+    numero: 48,
+
+    imagen: "/jugadores/dylan.jpg"
   }
 ]
 
@@ -194,6 +230,78 @@ const mediocampistas = [
     numero: 20,
 
     imagen: "/jugadores/velasco.jpg"
+  },
+    {
+    nombre: "Carlos Palacios",
+    numero: 8,
+
+    imagen: "/jugadores/palacios.jpg"
+  },
+    {
+    nombre: "Williams Alarcón",
+    numero: 15,
+
+    imagen: "/jugadores/alarcon.jpg"
+  },
+    {
+    nombre: "Milton Delgado",
+    numero: 18,
+
+    imagen: "/jugadores/delgado.jpg"
+  },
+    {
+    nombre: "Agustin Martegani",
+    numero: 19,
+
+    imagen: "/jugadores/martegani.jpg"
+  },
+    {
+    nombre: "Ander Herrera",
+    numero: 21,
+
+    imagen: "/jugadores/herrera.jpg"
+    },
+    {
+    nombre: "Santiago Ascacibar",
+    numero: 25,
+
+    imagen: "/jugadores/ascacibar.jpg"
+  },
+    {
+    nombre: "Malcom Braida",
+    numero: 27,
+
+    imagen: "/jugadores/braida.jpg"
+  },
+    {
+    nombre: "Tomás Belmonte",
+    numero: 30,
+
+    imagen: "/jugadores/belmonte.jpg"
+  },
+   {
+    nombre: "Tomás Aranda",
+    numero: 36,
+
+    imagen: "/jugadores/aranda.jpg"
+  },
+    {
+    nombre: "Camilo Rey Domenech",
+    numero: 38,
+
+    imagen: "/jugadores/camilo.jpg"
+  },
+    {
+    nombre: "Juan Cruz Payal",
+    numero: 46,
+
+    imagen: "/jugadores/payal.jpg"
+  },
+    {
+    nombre: "Joaquín Ruiz",
+    numero: 53,
+
+    imagen: "/jugadores/ruiz.jpg"
   }
 ]
 
@@ -217,6 +325,42 @@ const delanteros = [
     numero: 7,
 
     imagen: "/jugadores/zeballos.jpg"
+  },
+    {
+    nombre: "Milton Giménez",
+    numero: 9,
+
+    imagen: "/jugadores/gimenez.jpg"
+  },
+    {
+    nombre: "Lucas Janson",
+    numero: 11,
+
+    imagen: "/jugadores/janson.jpg"
+  },
+    {
+    nombre: "Adam Bareiro",
+    numero: 28,
+
+    imagen: "/jugadores/bareiro.jpg"
+  },
+    {
+    nombre: "Ángel Romero",
+    numero: 29,
+
+    imagen: "/jugadores/romero.jpg"
+  },
+    {
+    nombre: "Gonzalo Gelini",
+    numero: 37,
+
+    imagen: "/jugadores/gelini.jpg"
+  },
+    {
+    nombre: "Iker Zufiaurre",
+    numero: 41,
+
+    imagen: "/jugadores/iker.jpg"
   }
 ]
 
