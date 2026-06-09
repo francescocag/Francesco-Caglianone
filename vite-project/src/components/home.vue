@@ -39,10 +39,12 @@
       <div class="card">
 
         <h2>Publicidad</h2>
+<img
+          class="remeraog"
+          src="../assets/remeraog.png"
+          alt="Tabla"
+        />
 
-        <p>
-          Comprá la nueva camiseta oficial.
-        </p>
 
       </div>
 
