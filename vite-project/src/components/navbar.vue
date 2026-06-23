@@ -10,10 +10,10 @@ export default {
 
   <div class="container">
 
-    <a href="#" class="logo">
+    <router-link to="/" class="logo">
       <span>💙💛</span>
       <span>BOCA JUNIORS</span>
-    </a>
+    </router-link>
 
     <nav class="nav">
 
@@ -32,11 +32,15 @@ export default {
         </li>
 
         <li>
-          <a href="#" class="nav-link">Noticias</a>
+          <router-link to="/noticias" class="nav-link">
+            Noticias
+          </router-link>
         </li>
 
         <li>
-          <a href="#" class="nav-link">Tienda</a>
+          <router-link to="/tienda" class="nav-link">
+            Tienda
+          </router-link>
         </li>
 
       </ul>
@@ -50,7 +54,6 @@ export default {
 </template>
 
 <style scoped>
-
 .header {
   background: #0b1f66;
   padding: 1rem 2rem;
@@ -67,12 +70,16 @@ export default {
   font-size: 1.5rem;
   font-weight: bold;
   text-decoration: none;
+  display: flex;
+  gap: 0.5rem;
 }
 
 .nav-list {
   display: flex;
   list-style: none;
   gap: 2rem;
+  margin: 0;
+  padding: 0;
 }
 
 .nav-link {
@@ -85,4 +92,20 @@ export default {
   color: #f7d117;
 }
 
+.router-link-active {
+  color: #f7d117;
+}
+
+@media (max-width: 768px) {
+  .container {
+    flex-direction: column;
+    gap: 1rem;
+  }
+
+  .nav-list {
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1rem;
+  }
+}
 </style>
